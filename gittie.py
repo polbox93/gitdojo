@@ -5,7 +5,11 @@ print_dupa()
 
 
 def joke():
+
     print("dupa dupa dupa hahaha, pierogi")
+
+    print("zmiana przez osobe AAAAAAAAAAAAAAA")
+
 
 joke()
 
