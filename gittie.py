@@ -5,7 +5,7 @@ print_dupa()
 
 
 def joke():
-    print("dupa dupa dupa hahaha")
+    print("dupa dupa dupa hahaha, pierogi")
 
 joke()
 
