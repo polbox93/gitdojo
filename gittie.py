@@ -15,6 +15,7 @@ def joke():
 
     print("zmiana przez osobe AAAAAAAAAAAAAAA")
 
+print("lalalalalallllllllllllllllllllllllllllllllllllllllll")
 
 joke()
 
