@@ -4,6 +4,11 @@ def print_dupa():
 print_dupa()
 
 
+def shout():
+    print("shout")
+
+shout()
+
 def joke():
 
     print("dupa dupa dupa hahaha, pierogi")
